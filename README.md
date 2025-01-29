@@ -49,9 +49,6 @@ To run the credit score predictor locally, follow these steps:
 
 Contributions to this credit score predictor are welcome! If you have suggestions, bug reports, or would like to add new features, please open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE). Feel free to use and modify the credit score predictor according to your requirements.
 
 ## Contact
 
